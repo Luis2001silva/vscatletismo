@@ -211,7 +211,7 @@ var SliderStatus = true;
 	        	animation = element.data("value");
 	        element.animate({
 	        	"width" : animation
-	        }, 2000);
+	        }, 1500);
 	    });
 	});
 
