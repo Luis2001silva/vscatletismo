@@ -1,52 +1,51 @@
 /*
-A Design by Template Stock
-Author: Template Stock
-Author URL: http://templatestock.co
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Um Design por Estoque de Modelos
+Autor: Estoque de Modelos
+URL do autor: http://templatestock.co
+Licença: Creative Commons Atribuição 3.0 Não Adaptada
+URL da licença: http://creativecommons.org/licenses/by/3.0/
 */
 ----------------------------------
-NOTE : FREQUENTLY ASKED QUESTIONS 
+OBS: PERGUNTAS FREQUENTES
 ----------------------------------
 
-1. What is Template Stock?
+1. O que é Estoque de Modelos?
 
-	Template Stock is an initiative of AgileITs to provide free web designs which are cross device supported.
+O Template Stock é uma iniciativa da AgileITs para fornecer designs da Web gratuitos que são compatíveis com vários dispositivos.
 
-2. Is Template Stock Templates Really Free?
+2. Os modelos de estoque de modelos são realmente gratuitos?
 
-	Yes, all our templates free to use for both commercial and non-commercial, but you have provide a back link to Template Stock.com which is already included in footer design by Template Stock.com don’t edit or remove it.
+Sim, todos os nossos modelos são gratuitos para uso comercial e não comercial, mas você fornece um link para o Template Stock.com, que já está incluído no design de rodapé do Template Stock.com, não o edite ou remova.
 
-3. I want to Help Template Stock, How can I?
+3. Quero Ajudar Estoque de Modelos, Como posso?
 
-	You can help Template Stock By
-	1. Donate Some $’s, Any Amount your wish
-	2. Contribute Design inventory like stock photos, Icons or PSD designs with full rights to Template Stock
+Você pode ajudar Template Stock By
+1. Doe alguns $, qualquer valor que desejar
+2. Contribuir com o inventário de design, como fotos, ícones ou designs PSD com todos os direitos para o Template Stock
 
-4. I want to remove Template Stock.com back link from footer?
+4. Quero remover o link de retorno do Template Stock.com do rodapé?
 
-	We have two plans for that per template and unlimited.
-	Donate us $10 per template. If you want templates for multiple domains or bulk templates please contact info@templatestock.co
+Temos dois planos para isso por modelo e ilimitado.
+Doe-nos $ 10 por modelo. Se você quiser modelos para vários domínios ou modelos em massa, entre em contato com info@templatestock.co
 
-5. Will these templates work on iPhone, Android platforms, Tabs like kindle and Ipads?
+5. Esses modelos funcionarão no iPhone, plataformas Android, Tabs como Kindle e Ipads?
 
-	Yes, Template Stock templates work with all Smartphones and Tablets. To, support all the devices we are providing bootstrap Responisve designs WEB Template.
+Sim, os modelos do Template Stock funcionam com todos os smartphones e tablets. Para suportar todos os dispositivos que estamos fornecendo bootstrap Responisve designs WEB Template.
 
-6. What is Web Template?
+6. O que é Modelo Web?
 
-	WEB template is a responsive design which can be used for desktop users. Users visiting website from desktop browsers can view WEB template
-
-
-7. Do I need a separate version for Smartphones and Tablets?
-
-	No, WEB Template is compatible in all web browsers, Smartphones and Tablets. 
-
-8. Do I need any database?
-
-	No, it is not necessary.
+O modelo WEB é um design responsivo que pode ser usado para usuários de desktop. Os usuários que visitam o site a partir de navegadores de desktop podem visualizar o modelo WEB
 
 
-11. Under which license you are providing these templates?
+7. Preciso de uma versão separada para Smartphones e Tablets?
 
-	Template Stock templates are under Creative Commons Attribution 3.0 unported
+Não, o WEB Template é compatível com todos os navegadores web, Smartphones e Tablets.
 
+8. Preciso de algum banco de dados?
+
+Não, não é necessário.
+
+
+11. Sob qual licença você está fornecendo esses modelos?
+
+Os modelos do Template Stock estão sob Creative Commons Attribution 3.0 não portados
